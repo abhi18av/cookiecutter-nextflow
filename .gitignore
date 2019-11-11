@@ -7,3 +7,15 @@ docs/site/
 .cache/*
 tests/__pycache__/*
 *.pytest_cache/
+
+# python
+*.pyc
+
+# nextflow
+.nextflow*
+work/
+
+# data
+data/
+results/
+tests/test_data
