@@ -10,12 +10,3 @@ tests/__pycache__/*
 
 # python
 *.pyc
-
-# nextflow
-.nextflow*
-work/
-
-# data
-data/
-results/
-tests/test_data
