@@ -1,11 +1,10 @@
 # You can use this file to create a conda environment for this pipeline:
 #   conda env create -f environment.yml
-name: nf-core-mnaseseq-1.0dev
+name: project-name-0.1.0
 channels:
   - conda-forge
   - bioconda
   - defaults
-  - imperial-college-research-computing
 dependencies:
   ## conda-forge packages
   - r-base=3.4.1
@@ -26,5 +25,3 @@ dependencies:
   - deeptools=3.2.1
   - multiqc=1.7
 
-  ## other packages
-  - danpos=2.2.2

@@ -1,12 +1,10 @@
 # nf-core/mnaseseq: Contributing Guidelines
 
-Hi there! Many thanks for taking an interest in improving nf-core/mnaseseq.
+Hi there! Many thanks for taking an interest in improving user/pipeline.
 
 We try to manage the required tasks for nf-core/mnaseseq using GitHub issues, you probably came to this page when creating one. Please use the pre-filled template to save time.
 
 However, don't be put off by this template - other more general issues and suggestions are welcome! Contributions to the code are even more welcome ;)
-
-> If you need help using or modifying nf-core/mnaseseq then the best place to ask is on the pipeline channel on [Slack](https://nf-core-invite.herokuapp.com/).
 
 
 
@@ -15,10 +13,10 @@ If you'd like to write some code for nf-core/mnaseseq, the standard workflow
 is as follows:
 
 1. Check that there isn't already an issue about your idea in the
-   [nf-core/mnaseseq issues](https://github.com/nf-core/mnaseseq/issues) to avoid
+   [pipeline](https://github.com/user/pipeline/issues) to avoid
    duplicating work.
     * If there isn't one already, please create one so that others know you're working on this
-2. Fork the [nf-core/mnaseseq repository](https://github.com/nf-core/mnaseseq) to your GitHub account
+2. Fork the [repository](https://github.com/user/pipeline) to your GitHub account
 3. Make the necessary changes / additions within your forked repository
 4. Submit a Pull Request against the `dev` branch and wait for the code to be reviewed and merged.
 
@@ -44,4 +42,4 @@ If there are any failures then the automated tests fail.
 These tests are run both with the latest available version of Nextflow and also the minimum required version that is stated in the pipeline code.
 
 ## Getting help
-For further information/help, please consult the [nf-core/mnaseseq documentation](https://github.com/nf-core/mnaseseq#documentation) and don't hesitate to get in touch on the pipeline channel on [Slack](https://nf-core-invite.herokuapp.com/).
+For further information/help, please consult the [user/pipeline documentation](https://github.com/user/pipeline#documentation). 

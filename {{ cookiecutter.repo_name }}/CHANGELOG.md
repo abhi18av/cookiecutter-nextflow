@@ -1,4 +1,4 @@
-# nf-core/mnaseseq: Changelog
+# my-pipeline: Changelog
 
-## v1.0dev - [date]
-Initial release of nf-core/mnaseseq, created with the [nf-core](http://nf-co.re/) template.
+## v0.1.0 - [date]
+Initial release of the pipeline, created with the [cookiecutter-nf-core](https://github.com/abhi18av/cookiecutter-nf-core) template.
